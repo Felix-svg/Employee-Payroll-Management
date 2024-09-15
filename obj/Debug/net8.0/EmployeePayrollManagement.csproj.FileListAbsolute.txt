@@ -1,0 +1,14 @@
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/bin/Debug/net8.0/EmployeePayrollManagement
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/bin/Debug/net8.0/EmployeePayrollManagement.deps.json
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/bin/Debug/net8.0/EmployeePayrollManagement.runtimeconfig.json
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/bin/Debug/net8.0/EmployeePayrollManagement.dll
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/bin/Debug/net8.0/EmployeePayrollManagement.pdb
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/obj/Debug/net8.0/EmployeePayrollManagement.GeneratedMSBuildEditorConfig.editorconfig
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/obj/Debug/net8.0/EmployeePayrollManagement.AssemblyInfoInputs.cache
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/obj/Debug/net8.0/EmployeePayrollManagement.AssemblyInfo.cs
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/obj/Debug/net8.0/EmployeePayrollManagement.csproj.CoreCompileInputs.cache
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/obj/Debug/net8.0/EmployeePayrollManagement.dll
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/obj/Debug/net8.0/refint/EmployeePayrollManagement.dll
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/obj/Debug/net8.0/EmployeePayrollManagement.pdb
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/obj/Debug/net8.0/EmployeePayrollManagement.genruntimeconfig.cache
+/home/felix-omondi/development/learning/C#/EmployeePayrollManagement/obj/Debug/net8.0/ref/EmployeePayrollManagement.dll
